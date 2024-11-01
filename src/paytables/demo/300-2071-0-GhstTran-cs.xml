@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="cs">
+<phrase key="softwareId" value="ID softwaru"/>
+<phrase key="transactionId" value="ID transakce"/>
+<phrase key="totalWins" value="Celková výhra"/>
+<phrase key="totalWager" value="Celková sázka"/>
+<phrase key="gems" value="Drahokamy"/>
+<phrase key="numberCollected" value="Nasbíráno celkem"/>
+<phrase key="prize" value="Výhra"/>
+<phrase key="dragonsLair" value="Okamžitá výhra v dračím doupěti"/>
+<phrase key="A" value="Rubín"/>
+<phrase key="B" value="Smaragd"/>
+<phrase key="C" value="Safír"/>
+<phrase key="D" value="Zlatá mince"/>
+<phrase key="E" value="Stříbrná mince"/>
+<phrase key="F" value="Bronzová mince"/>
+<phrase key="1" value="Okamžitá výhra 1"/>
+<phrase key="2" value="Okamžitá výhra 2"/>
+</translation>

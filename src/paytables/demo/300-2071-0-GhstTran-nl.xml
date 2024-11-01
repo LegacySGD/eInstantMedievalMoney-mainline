@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="nl">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transactie-ID"/>
+<phrase key="totalWins" value="Totale winst"/>
+<phrase key="totalWager" value="Totale inzet"/>
+<phrase key="gems" value="Edelstenen"/>
+<phrase key="numberCollected" value="Aantal gekregen"/>
+<phrase key="prize" value="Prijs"/>
+<phrase key="dragonsLair" value="Directe prijs Drakenhol"/>
+<phrase key="A" value="Robijn"/>
+<phrase key="B" value="Smaragd"/>
+<phrase key="C" value="Saffier"/>
+<phrase key="D" value="Gouden munt"/>
+<phrase key="E" value="Zilveren munt"/>
+<phrase key="F" value="Bronzen munt"/>
+<phrase key="1" value="Directe prijs 1"/>
+<phrase key="2" value="Directe prijs 2"/>
+</translation>

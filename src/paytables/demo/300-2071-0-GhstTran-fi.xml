@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fi">
+<phrase key="softwareId" value="Ohjelmiston tunniste"/>
+<phrase key="transactionId" value="Tapahtuman tunniste"/>
+<phrase key="totalWins" value="Kokonaisvoitot"/>
+<phrase key="totalWager" value="Kokonaispanos"/>
+<phrase key="gems" value="Jalokivet"/>
+<phrase key="numberCollected" value="Kerätty määrä"/>
+<phrase key="prize" value="Palkinto"/>
+<phrase key="dragonsLair" value="Lohikäärmeen pesän välitön voitto"/>
+<phrase key="A" value="Rubiini"/>
+<phrase key="B" value="Smaragdi"/>
+<phrase key="C" value="Safiiri"/>
+<phrase key="D" value="Kultakolikko"/>
+<phrase key="E" value="Hopeakolikko"/>
+<phrase key="F" value="Pronssikolikko"/>
+<phrase key="1" value="Välitön voitto 1"/>
+<phrase key="2" value="Välitön voitto 2"/>
+</translation>

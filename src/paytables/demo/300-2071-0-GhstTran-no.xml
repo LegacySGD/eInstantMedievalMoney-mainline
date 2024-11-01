@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="no">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="Totale gevinster"/>
+<phrase key="totalWager" value="Totale innsatser"/>
+<phrase key="gems" value="Juveler"/>
+<phrase key="numberCollected" value="Antall oppsamlet"/>
+<phrase key="prize" value="Premie"/>
+<phrase key="dragonsLair" value="Umiddelbar gevinst fra dragereiret"/>
+<phrase key="A" value="Rubin"/>
+<phrase key="B" value="Smaragd"/>
+<phrase key="C" value="Safir"/>
+<phrase key="D" value="Gullmynt"/>
+<phrase key="E" value="Sølvmynt"/>
+<phrase key="F" value="Bronsemynt"/>
+<phrase key="1" value="Umiddelbar gevinst 1"/>
+<phrase key="2" value="Umiddelbar gevinst 2"/>
+</translation>

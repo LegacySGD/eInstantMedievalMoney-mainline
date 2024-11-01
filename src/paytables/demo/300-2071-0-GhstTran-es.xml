@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="es">
+<phrase key="softwareId" value="ID de software"/>
+<phrase key="transactionId" value="ID de transacción"/>
+<phrase key="totalWins" value="Premios totales"/>
+<phrase key="totalWager" value="Apuesta total"/>
+<phrase key="gems" value="Joyas"/>
+<phrase key="numberCollected" value="Número recogido"/>
+<phrase key="prize" value="Premio  "/>
+<phrase key="dragonsLair" value="Premio instantáneo de la guarida del dragón"/>
+<phrase key="A" value="Rubí"/>
+<phrase key="B" value="Esmeralda"/>
+<phrase key="C" value="Zafiro"/>
+<phrase key="D" value="Moneda de oro"/>
+<phrase key="E" value="Moneda de plata"/>
+<phrase key="F" value="Moneda de bronce"/>
+<phrase key="1" value="Premio instantáneo 1"/>
+<phrase key="2" value="Premio instantáneo 2"/>
+</translation>

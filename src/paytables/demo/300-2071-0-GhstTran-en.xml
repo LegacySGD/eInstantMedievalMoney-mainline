@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="gems" value="Gems"/>
+<phrase key="numberCollected" value="Number Collected"/>
+<phrase key="prize" value="Prize"/>
+<phrase key="dragonsLair" value="Dragon&#39;s Lair Instant Win"/>
+<phrase key="A" value="Ruby"/>
+<phrase key="B" value="Emerald"/>
+<phrase key="C" value="Sapphire"/>
+<phrase key="D" value="Gold Coin"/>
+<phrase key="E" value="Silver Coin"/>
+<phrase key="F" value="Bronze Coin"/>
+<phrase key="1" value="Instant Win 1"/>
+<phrase key="2" value="Instant Win 2"/>
+</translation>

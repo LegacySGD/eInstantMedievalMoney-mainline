@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Mjukvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Totalvinster"/>
+<phrase key="totalWager" value="Totalinsats"/>
+<phrase key="gems" value="Juveler"/>
+<phrase key="numberCollected" value="Antal insamlade"/>
+<phrase key="prize" value="Pris"/>
+<phrase key="dragonsLair" value="Draknästets direktvinst"/>
+<phrase key="A" value="Rubin"/>
+<phrase key="B" value="Smaragd"/>
+<phrase key="C" value="Safir"/>
+<phrase key="D" value="Guldmynt"/>
+<phrase key="E" value="Silvermynt"/>
+<phrase key="F" value="Bronsmynt"/>
+<phrase key="1" value="Direktvinst 1"/>
+<phrase key="2" value="Direktvinst 2"/>
+</translation>

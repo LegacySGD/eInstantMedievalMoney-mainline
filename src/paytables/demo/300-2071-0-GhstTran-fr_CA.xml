@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_CA">
+<phrase key="softwareId" value="ID de la transaction"/>
+<phrase key="transactionId" value="ID de la transaction GNA"/>
+<phrase key="totalWins" value="Gains totaux"/>
+<phrase key="totalWager" value="Mise totale"/>
+<phrase key="gems" value="Pierres précieuses"/>
+<phrase key="numberCollected" value="Quantité amassée"/>
+<phrase key="prize" value="Lot"/>
+<phrase key="dragonsLair" value="Lot instant de l&#39;antre du dragon"/>
+<phrase key="A" value="Rubis"/>
+<phrase key="B" value="Émeraude"/>
+<phrase key="C" value="Saphir"/>
+<phrase key="D" value="Pierre dorée"/>
+<phrase key="E" value="Pierre d&#39;argent"/>
+<phrase key="F" value="Pierre de bronze"/>
+<phrase key="1" value="Lot instant 1"/>
+<phrase key="2" value="Lot instant 2"/>
+</translation>

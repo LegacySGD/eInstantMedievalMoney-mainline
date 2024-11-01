@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="it">
+<phrase key="softwareId" value="ID Software"/>
+<phrase key="transactionId" value="ID Transazione"/>
+<phrase key="totalWins" value="Totale Vincite"/>
+<phrase key="totalWager" value="Puntata Totale"/>
+<phrase key="gems" value="Gemme"/>
+<phrase key="numberCollected" value="Quantità raccolta"/>
+<phrase key="prize" value="Premio"/>
+<phrase key="dragonsLair" value="Vincita Istantanea Dragon&#39;s Lair"/>
+<phrase key="A" value="Rubino"/>
+<phrase key="B" value="Smeraldo"/>
+<phrase key="C" value="Zaffiro"/>
+<phrase key="D" value="Moneta Dorata"/>
+<phrase key="E" value="Moneta Argentata"/>
+<phrase key="F" value="Moneta di Bronzo"/>
+<phrase key="1" value="Vincita Istantanea 1"/>
+<phrase key="2" value="Vincita Istantanea 2"/>
+</translation>
